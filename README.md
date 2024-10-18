@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @JacobBanghart
-- 🌱 I’m currently learning Graphql Federation and working with microservices and their architecture.
 - 📫 How to reach me
   - jacobmbanghart@gmail.com
